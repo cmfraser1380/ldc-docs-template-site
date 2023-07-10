@@ -3,7 +3,7 @@
 
 # Landscape Data Commons
 
-This is an example of a home page for the Landscape Data Commons (LDC) data-portal documentation site.
+This is an example of a home page for the Landscape Data Commons (LDC) documentation site.
 
 ## Section 1
 
